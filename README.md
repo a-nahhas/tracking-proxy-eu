@@ -24,20 +24,20 @@ click on a button below to deploy to your favorite cloud provider:
 [Google Cloud Deploy]: https://deploy.cloud.run
 
 [Digital Ocean Btn]: https://www.deploytodo.com/do-btn-blue.svg
-[Digital Ocean Deploy]: https://cloud.digitalocean.com/apps/new?repo=https://github.com/mixpanel/tracking-proxy/tree/master
+[Digital Ocean Deploy]: https://cloud.digitalocean.com/apps/new?repo=https://github.com/a-nahhas/tracking-proxy-eu/tree/master
 
 [Railway Btn]: https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg
 [Railway Deploy]: https://railway.app/template/_RaWSW
 
 [Render Btn]: https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg
-[Render Deploy]: https://render.com/deploy?repo=https://github.com/mixpanel/tracking-proxy
+[Render Deploy]: https://render.com/deploy?repo=https://github.com/a-nahhas/tracking-proxy-eu
 
 
 <!-- Maybe later? -->
 
 <!-- Heroku's app.json conflicts with GCP 0_o  -->
 [Heroku Btn]: https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg
-[Heroku Deploy]: https://heroku.com/deploy/?template=https://github.com/mixpanel/tracking-proxy
+[Heroku Deploy]: https://heroku.com/deploy/?template=https://github.com/a-nahhas/tracking-proxy-eu
 
 <!-- Azure is too... complicated -->
 [Azure Btn]: https://binbashbanana.github.io/deploy-buttons/buttons/remade/azure.svg
